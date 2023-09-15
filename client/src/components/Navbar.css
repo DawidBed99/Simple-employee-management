@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  background: rgb(222, 218, 218);
+}
+.navbar {
+  width: 100%;
+  height: 100px;
+  padding: 0;
+  background: rgb(184, 175, 175);
+  font-size: 36px;
+  display: flex;
+  align-items: center;
+}
+.navbar-brand {
+  padding: 12px;
+  position: absolute;
+  left: 60px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  background: rgb(114, 215, 237);
+  border-radius: 20px;
+  box-shadow: 0px 0px 7px 0px rgba(66, 68, 90, 1);
+}
+.navbar-create {
+  padding: 12px;
+  position: absolute;
+  right: 60px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  background: rgb(114, 215, 237);
+  border-radius: 20px;
+  box-shadow: 0px 0px 7px 0px rgba(66, 68, 90, 1);
+}
