@@ -16,8 +16,8 @@ body {
   justify-content: center;
 }
 .list-container {
-  min-height: 600px;
-  min-width: 1200px;
+  max-height: 470px;
+  max-width: 1200px;
   margin-bottom: 100px;
   display: flex;
   align-items: center;
