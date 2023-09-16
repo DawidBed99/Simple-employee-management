@@ -1,6 +1,5 @@
 # Simple-employee-management
 
-
 * This is Simple-employee-management application made by Dawid Bednarz
 
 ## Functionality
